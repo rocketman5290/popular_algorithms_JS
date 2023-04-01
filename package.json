@@ -1,0 +1,13 @@
+{
+  "name": "popularalgorithmsinjs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "LRUcache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["binary search", "cumulative sum", "LRU cache"],
+  "author": "",
+  "license": "ISC"
+}
